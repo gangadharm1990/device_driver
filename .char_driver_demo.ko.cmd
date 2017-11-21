@@ -1,0 +1,1 @@
+cmd_/home/naveen/Desktop/char_drv/char_driver_demo.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/naveen/Desktop/char_drv/char_driver_demo.ko /home/naveen/Desktop/char_drv/char_driver_demo.o /home/naveen/Desktop/char_drv/char_driver_demo.mod.o
